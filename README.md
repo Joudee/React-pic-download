@@ -12,9 +12,9 @@ React-pic-download is available through npm:
 npm install react-pic-download
 ```
 
-##React Pic Download Components
+##React Pic Download Components[example](https://www.joudee.com/downloadImage)
 
-React-pic-download provide a react component to downlaod images that you can naming it by yourself.If you want use it for common HTMl.You can email me by 2068860045@qq.com.Then i will promote it for HTML.
+React-pic-download provide a react component to downlaod images that you can naming it by yourself.If you want use it for common HTMl.You can email me by 2068860045@qq.com. Then i will promote it for HTML.
 
 You can use any name to use this component.Just like this:
 ```js
