@@ -18,6 +18,8 @@ React-pic-download provide a react component to downlaod images that you can nam
 
 You can use any name to use this component.Just like this:
 ```js
+import DownLoadImages from 'react-pic-download'
+
 <DownLoadImages config={config}></DownLoadImages>
 ```
 
