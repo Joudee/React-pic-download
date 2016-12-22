@@ -6,7 +6,7 @@ In my project,we want to download images with our names.First,we use the '<a></a
 
 ##Installation
 
-React-pic-download is available through npm:[example](https://www.joudee.com/downloadImage)
+React-pic-download is available through npm:[example](https://www.joudee.com/downloadImage/index.html)
 
 ```sh
 npm install react-pic-download
