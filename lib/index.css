@@ -1,0 +1,14 @@
+.react-pic-download{
+    width:100px;
+    height:40px;
+    border-radius:50px;
+    background:blue;
+    overflow:hidden;
+    display:block;
+    color:#fff;
+    text-align:center;
+    line-height:40px;
+    font-size:16px;
+    cursor:pointer;
+    text-decoration:none!important;
+}

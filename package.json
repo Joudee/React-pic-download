@@ -1,0 +1,11 @@
+{
+  "name": "react-pic-download",
+  "version": "1.0.0",
+  "description": "download imgs with name that you defined in react ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joudee",
+  "license": "ISC"
+}
